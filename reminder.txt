@@ -1,0 +1,8 @@
+to install:
+
+cd ~/.atom/packages
+git clone https://github.com/url_to_your_package
+cd your_package
+npm install
+
+https://stackoverflow.com/questions/39081968/how-can-i-manually-download-packages-for-atom-editor-and-install-them-manually
